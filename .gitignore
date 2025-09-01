@@ -1,0 +1,13 @@
+data/
+*.parquet
+*_SUCCESS
+*.crc
+
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+.vscode/
+.idea/
